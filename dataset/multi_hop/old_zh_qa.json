@@ -1,0 +1,5390 @@
+[
+    {
+        "question": "卡尔·萨根的雇主位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "卡尔·萨根的雇主位于哪个行政领土实体？",
+        "o_answer": "伊萨卡",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "菲利普·普尔曼曾在哪个国家的大学任职？",
+        "o_answer": "英国",
+        "o_answer_aliases": [
+            "联合王国",
+            "大不列颠及北爱尔兰联合王国"
+        ]
+    },
+    {
+        "question": "菲利普·普尔曼的雇主位于哪个位置？",
+        "o_answer": "牛津郡",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "格温多兰·克里斯蒂的国籍所在地的行政中心是哪里？",
+        "o_answer": "伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "格温多兰·克里斯蒂的国籍所属大洲是哪个？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "足球作为一项运动产生于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "约翰·亨尼西是在哪个行政领土实体担任斯坦福大学的雇主？",
+        "o_answer": "斯坦福",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "约翰·亨尼西的雇主位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "约翰·亨尼西的工作地点是哪里？",
+        "o_answer": "斯坦福",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "米德尔马契的作者去世地点是哪里？",
+        "o_answer": "伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "让-雅克·贝内是哪个大洲的人？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "让-雅克·贝内的国籍的行政中心是哪里？",
+        "o_answer": "巴黎",
+        "o_answer_aliases": [
+            "巴黎市"
+        ]
+    },
+    {
+        "question": "剑桥大学的总部位置在哪个城市？",
+        "o_answer": "英国",
+        "o_answer_aliases": [
+            "联合王国",
+            "大不列颠及北爱尔兰联合王国"
+        ]
+    },
+    {
+        "question": "瓦莱丽·霍布森的国籍属于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "棒球运动的起源地是哪座城市的行政中心？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "赫里特·里特费尔德的国籍是属于哪个大洲的？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "爱尔兰王国的信仰总部位置位于哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "《浩劫后》在哪个国家的电视台首播？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "弗拉基米尔·聂米罗维奇-丹钦科去世于哪个城市所属的国家？",
+        "o_answer": "俄罗斯",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "叶夫根尼·瓦赫坦戈夫曾就读于哪所大学的国家？",
+        "o_answer": "俄罗斯",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "穆罕默德－礼萨·巴列维的国籍是哪个大洲的？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "桃莉·巴顿的工作地点位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "史提芬京之醫院「兇」靈首播平台位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "哥倫比亞廣播公司的成立地点位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "墨西哥电信的领导者的出生地是哪里？",
+        "o_answer": "墨西哥城",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "航天飞机运输飞机的开发者所在国家是哪个？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "贝内特·瑟夫通晓的语言属于哪个国家？",
+        "o_answer": "加拿大",
+        "o_answer_aliases": [
+            "坎拿大"
+        ]
+    },
+    {
+        "question": "马加什一世的国籍是属于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "Mac Pro的开发者是哪个国家的公司？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "埃利亚的芝诺出生地位于哪个国家？",
+        "o_answer": "意大利",
+        "o_answer_aliases": [
+            "意大利共和国"
+        ]
+    },
+    {
+        "question": "格拉斯哥大学的总部位置所在城市是哪个国家的？",
+        "o_answer": "英国",
+        "o_answer_aliases": [
+            "联合王国",
+            "大不列颠及北爱尔兰联合王国"
+        ]
+    },
+    {
+        "question": "披头士乐队的成立地点所属国家是哪个？",
+        "o_answer": "英国",
+        "o_answer_aliases": [
+            "联合王国",
+            "大不列颠及北爱尔兰联合王国"
+        ]
+    },
+    {
+        "question": "克莱尔·布思·鲁斯出生在哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "查尔斯·贝尔曾在哪个国家的大学任职？",
+        "o_answer": "英国",
+        "o_answer_aliases": [
+            "联合王国",
+            "大不列颠及北爱尔兰联合王国"
+        ]
+    },
+    {
+        "question": "老舍出生于哪个国家的城市？",
+        "o_answer": "中华人民共和国",
+        "o_answer_aliases": [
+            "中国"
+        ]
+    },
+    {
+        "question": "博洛尼亚大学位于哪个国家的博洛尼亚？",
+        "o_answer": "意大利",
+        "o_answer_aliases": [
+            "意大利共和国"
+        ]
+    },
+    {
+        "question": "亚历山大·列别杰夫的工作地点位于哪个国家？",
+        "o_answer": "俄罗斯",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "AIM-9响尾蛇导弹的生产商位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "约翰·多斯·帕索斯的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "菲利普·哈蒙德的工作地点位于哪个国家？",
+        "o_answer": "英国",
+        "o_answer_aliases": [
+            "联合王国",
+            "大不列颠及北爱尔兰联合王国"
+        ]
+    },
+    {
+        "question": "沃尔沃汽车的成立地点位于哪个国家？",
+        "o_answer": "瑞典",
+        "o_answer_aliases": [
+            "瑞典王国"
+        ]
+    },
+    {
+        "question": "鲍勃·格雷厄姆的国籍所属国家的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "鲍勃·格雷厄姆是哪个大洲的人？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "BBC在线的总部位于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "法国荣誉军团勋章的成员属于哪两个实体？",
+        "o_answer": "法国科学院",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "艾萨克·牛顿的雇主位于哪个国家？",
+        "o_answer": "英国",
+        "o_answer_aliases": [
+            "联合王国",
+            "大不列颠及北爱尔兰联合王国"
+        ]
+    },
+    {
+        "question": "可口可乐的生产商位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "综艺节目的产地位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "艺术房间的总部位置位于哪个行政领土实体？",
+        "o_answer": "俄罗斯",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "弗拉迪米尔·哈肯尼是哪位作家的父亲？",
+        "o_answer": "布萊恩·帕特里克·赫伯特",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "Windows Phone 7的开发者来自哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "比尔·弗里斯特的国籍属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "A-4天鹰式攻击机的生产地位于哪个城市？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "A-4天鹰式攻击机的产地位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "\"Man in the Mirror\"的表演者出生在哪里？",
+        "o_answer": "盖瑞",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "\"Man in the Mirror\"的表演者有哪些配偶？",
+        "o_answer": "莉萨·玛丽·普雷斯利",
+        "o_answer_aliases": [
+            "丽莎·玛丽·普莱斯利"
+        ]
+    },
+    {
+        "question": "\"Man in the Mirror\"的表演者去世于哪里？",
+        "o_answer": "洛杉矶",
+        "o_answer_aliases": [
+            "洛杉矶市"
+        ]
+    },
+    {
+        "question": "埃尔维斯·普雷斯利的配偶的孩子是谁？",
+        "o_answer": "莉萨·玛丽·普雷斯利",
+        "o_answer_aliases": [
+            "丽莎·玛丽·普莱斯利"
+        ]
+    },
+    {
+        "question": "诺尔玛·塔尔梅奇的国籍属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "汉娜·蒙塔娜首播的频道是由谁拥有的？",
+        "o_answer": "中东分部",
+        "o_answer_aliases": [
+            "迪士尼频道国际公司"
+        ]
+    },
+    {
+        "question": "宿醉是在哪个国家产生的？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "宿醉是在哪个国家的行政中心产生的？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "宿醉是在哪个大洲产生的？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "凯莉·米诺格通晓的语言是哪个国家的官方语言？",
+        "o_answer": "加拿大",
+        "o_answer_aliases": [
+            "坎拿大"
+        ]
+    },
+    {
+        "question": "罗伯特·亨利的国籍是哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "苏·葛拉芙顿的国籍是哪个大洲的？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "苏·葛拉芙顿的国籍属于哪个城市所在的国家？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "尤瓦勒·内埃曼的国籍的行政中心是哪里？",
+        "o_answer": "耶路撒冷",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "比尔·克林顿的孩子的出生地是哪里？",
+        "o_answer": "小石城",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "比尔·克林顿的孩子从事什么职业？",
+        "o_answer": "商人",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "穆罕默德·纳吉布拉的国籍位于哪个大洲？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "奧斯卡·王爾德去世于哪个国家？",
+        "o_answer": "法国",
+        "o_answer_aliases": [
+            "法兰西共和国",
+            "法兰西"
+        ]
+    },
+    {
+        "question": "猎鹰9号运载火箭的制造国是哪个？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "猎鹰9号运载火箭的制造地位于哪个城市？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "猎鹰9号运载火箭的产地所在大洲是哪里？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "詹姆斯二世信奉的宗教由谁创办？",
+        "o_answer": "耶稣",
+        "o_answer_aliases": [
+            "耶稣基督",
+            "拿撒勒人耶稣"
+        ]
+    },
+    {
+        "question": "巴雷塔在哪个国家的电视网首播？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "macOS的开发者所在国家是哪个？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "macOS的开发者是谁担任首席执行官？",
+        "o_answer": "蒂姆·库克",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "威尼斯商人的作者去世于哪里？",
+        "o_answer": "埃文河畔斯特拉特福",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "《威尼斯商人》的作者出生在哪里？",
+        "o_answer": "埃文河畔斯特拉特福",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "鲍勃·迪伦曾在哪个国家的大学就读？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "世界报是属于哪个国家的？",
+        "o_answer": "德国",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "世界报的产地所在大洲是哪个？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "P·D·詹姆斯的工作地点所在城市位于哪个国家？",
+        "o_answer": "英国",
+        "o_answer_aliases": [
+            "联合王国",
+            "大不列颠及北爱尔兰联合王国"
+        ]
+    },
+    {
+        "question": "多伊尔·布朗森是哪个大洲的国民？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "努尔·穆罕默德·塔拉基的国籍对应的行政中心是哪里？",
+        "o_answer": "喀布尔",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "张艺谋是来自哪个大洲的？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "PlayStation 4的生产商位于哪个国家？",
+        "o_answer": "日本",
+        "o_answer_aliases": [
+            "日本国",
+            "大日本帝国"
+        ]
+    },
+    {
+        "question": "自私的基因的作者从事什么职业？",
+        "o_answer": "编剧",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "自私的基因的作者出生地位于哪个地方？",
+        "o_answer": "内罗毕",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "奈特·阿奇博尔德是哪个大洲的国民？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "阿兰·吉雷瑟的国籍的行政中心是哪里？",
+        "o_answer": "巴黎",
+        "o_answer_aliases": [
+            "巴黎市"
+        ]
+    },
+    {
+        "question": "拉玛三世去世时在哪个国家？",
+        "o_answer": "泰国",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "乔·尼克尔的国籍是哪个行政中心所在的国家？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "乔·尼克尔的国籍所在的大洲是哪里？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "弗兰克·米勒是哪个大洲的国籍？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "克里斯多夫·史蒂文斯的国籍位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "玛丽·托德去世地位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "达夫妮·莫里哀通晓的语言是哪个国家的？",
+        "o_answer": "加拿大",
+        "o_answer_aliases": [
+            "坎拿大"
+        ]
+    },
+    {
+        "question": "亨利·莱特·哈葛德的国籍属于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "黑泽明是哪个大洲的人？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "月光光心慌慌是来自哪个大洲的？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "阿涅斯·瓦尔达去世于哪个国家？",
+        "o_answer": "法国",
+        "o_answer_aliases": [
+            "法兰西共和国",
+            "法兰西"
+        ]
+    },
+    {
+        "question": "绝命毒师的原始语言所属国家是哪个？",
+        "o_answer": "加拿大",
+        "o_answer_aliases": [
+            "坎拿大"
+        ]
+    },
+    {
+        "question": "唐顿庄园的创作作者出生于哪里？",
+        "o_answer": "开罗",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "哈伊梅·阿古尔苏阿里的国籍位于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "索尼互动娱乐的成立地点位于哪个国家？",
+        "o_answer": "日本",
+        "o_answer_aliases": [
+            "日本国",
+            "大日本帝国"
+        ]
+    },
+    {
+        "question": "索尼互动娱乐的成立地点位于哪个大洲？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "索尼互动娱乐的成立地点所在的行政领土实体是哪里？",
+        "o_answer": "日本",
+        "o_answer_aliases": [
+            "日本国",
+            "大日本帝国"
+        ]
+    },
+    {
+        "question": "奥斯瓦尔特·波尔是哪个大洲的国籍？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "乔治·R·R·马丁的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "史蒂夫·鲍尔默曾在哪个国家的公司任职？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "约翰·克里斯通晓的语言是哪个国家的？",
+        "o_answer": "加拿大",
+        "o_answer_aliases": [
+            "坎拿大"
+        ]
+    },
+    {
+        "question": "让·拉辛去世于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "让·拉辛去世于哪个国家？",
+        "o_answer": "法国",
+        "o_answer_aliases": [
+            "法兰西共和国",
+            "法兰西"
+        ]
+    },
+    {
+        "question": "银椅的作者来自哪里？",
+        "o_answer": "贝尔法斯特",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "银椅的作者的配偶是谁？",
+        "o_answer": "海伦·乔依·戴维德曼",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "《银椅》的作者去世于哪里？",
+        "o_answer": "牛津",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "基督教的成立地点位于哪个国家？",
+        "o_answer": "以色列",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "吉尔达·拉德纳的国籍属于哪个城市所在的国家？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "吉尔达·拉德纳的国籍是哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "伊尔-18的生产商位于哪个国家？",
+        "o_answer": "苏联",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "BioWare公司的成立地点位于哪个国家？",
+        "o_answer": "加拿大",
+        "o_answer_aliases": [
+            "坎拿大"
+        ]
+    },
+    {
+        "question": "杰里·斯塔尔的国籍属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "阿列克谢·帕基特诺夫出生于哪个国家？",
+        "o_answer": "俄罗斯",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "阿列克谢·帕基特诺夫出生地的城市由谁创办？",
+        "o_answer": "尤里·多尔戈鲁基",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "亨利·詹姆斯就读于哪个国家的大学？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "史蒂芬·麦昆的国籍所在大洲是哪个？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "马丁·路德·金的国籍是哪个大洲的？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "Apple Pay的开发者位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "佩姬·安·加纳的国籍属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "彼得·沃尔姆斯的国籍位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "彼得·沃尔姆斯的国籍位于哪个行政中心？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "iPod Classic的开发者是哪个国家的公司？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "多丽丝·卡恩斯·古德温的雇主位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "联合式橄榄球是在哪个大洲产生的？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "皇家马德里C队的领导者曾在哪里就读？",
+        "o_answer": "马德里理工大学",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "皇家马德里C队的领导者的出生地是哪里？",
+        "o_answer": "马德里",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "皇家马德里C队的领导者是什么职业？",
+        "o_answer": "商人",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "安德斯将军的国籍所在地的行政中心是哪里？",
+        "o_answer": "华沙",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "利茲·弗裏德蘭德是哪个大洲的国籍？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "利茲·弗裏德蘭德的国籍是哪个国家的政府首脑？",
+        "o_answer": "乔·拜登",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "金柏莉·威廉斯-帕斯萊的国籍对应的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "App Store的开发者位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "App Store的开发者由谁创办？",
+        "o_answer": "史蒂夫·乔布斯",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "乔许·麦可达密特的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "弗兰克·劳埃德·赖特的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "列昂·布列坦是哪个大洲的人？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "爱德华·埃弗里特的雇主位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "路易·亨利·卢瓦宗是来自哪个大洲的？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "娄·珀尔曼的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "凯撒大帝的作者出生在哪里？",
+        "o_answer": "埃文河畔斯特拉特福",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "凯撒大帝的作者去世于哪里？",
+        "o_answer": "埃文河畔斯特拉特福",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "凯撒大帝的作者的配偶是谁？",
+        "o_answer": "安妮·哈瑟维 (莎士比亚之妻)",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "豹2型坦克的制造地位于哪个国家？",
+        "o_answer": "德国",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "银翼杀手的原始语言属于哪个国家？",
+        "o_answer": "加拿大",
+        "o_answer_aliases": [
+            "坎拿大"
+        ]
+    },
+    {
+        "question": "乔治·卢卡斯是哪个大洲的人？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "蒂姆·伯顿是哪个大洲的人？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "蒂姆·伯顿的国籍位于哪个城市的行政中心？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "让·巴蒂斯特·约瑟夫·德朗布尔的国籍所属国家的行政中心是哪里？",
+        "o_answer": "巴黎",
+        "o_answer_aliases": [
+            "巴黎市"
+        ]
+    },
+    {
+        "question": "让·巴蒂斯特·约瑟夫·德朗布尔的国籍位于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "大卫·朱维特出生在哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "艾米·波勒的国籍属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "漫威漫画的总部位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "杰克·科比出生地是哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "杰克·科比出生地位于哪个行政领土实体？",
+        "o_answer": "纽约州",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "杰克·科比出生在哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "半衰期2的开发者是哪个国家的公司？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "弗雷德·尼尔的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "克利夫·史戴普·路易斯的配偶是从事什么职业的？",
+        "o_answer": "作家",
+        "o_answer_aliases": [
+            "文学家"
+        ]
+    },
+    {
+        "question": "克利夫·史戴普·路易斯的配偶的出生地是哪里？",
+        "o_answer": "纽约",
+        "o_answer_aliases": [
+            "纽约市"
+        ]
+    },
+    {
+        "question": "阿贝尔·冈斯是哪个大洲的国民？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "柳承范的国籍属于哪个大洲？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "歐内斯特是哪个大洲的国籍？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "托尼·拉·鲁萨的国籍属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "马哈茂德一世信奉的宗教的成立地点是哪里？",
+        "o_answer": "汉志",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "纳尔逊·曼德拉是哪个大洲的国籍？",
+        "o_answer": "非洲",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "纳尔逊·曼德拉的国籍所在地的行政中心是哪里？",
+        "o_answer": "比勒陀利亚",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "五号屠场所在地是哪个城市的行政中心？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "五号屠场是位于哪个国家的？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "五号屠场位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "J. 麦加恩的国籍属于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "法蒂玛·罗宾逊的国籍是哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "法蒂玛·罗宾逊的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "乔治·查金思的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "安妮·弗兰克之家的创办者的配偶是谁？",
+        "o_answer": "埃迪特·弗兰克",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "安妮·弗兰克之家的创办者曾就读于哪所学校？",
+        "o_answer": "海德堡大学",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "小奥利弗·温德尔·霍姆斯的雇主位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "约翰·谢德格的国籍是属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "萨金特·施赖弗的配偶曾就读于哪两所学校？",
+        "o_answer": "斯坦福大学",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "萨金特·施赖弗的配偶的孩子是谁？",
+        "o_answer": "玛丽娅·施瑞弗尔",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "萨米·海皮亚的国籍属于哪个行政中心？",
+        "o_answer": "赫尔辛基",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "拉加代尔集团总部位于哪个国家？",
+        "o_answer": "法国",
+        "o_answer_aliases": [
+            "法兰西共和国",
+            "法兰西"
+        ]
+    },
+    {
+        "question": "艾伦·克莱恩的国籍所在的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "卡尔·舒尔茨去世于哪个行政领土实体？",
+        "o_answer": "纽约州",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "鲍勃·迪伦在哪个大洲工作？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "杰克·科比的国籍是哪个行政中心所在的国家？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "杰克·科比的国籍是属于哪个大洲的？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "杰克·科比的国家的官方语言是什么？",
+        "o_answer": "英语",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "金绮泳就读的大学位于哪个国家？",
+        "o_answer": "大韩民国",
+        "o_answer_aliases": [
+            "韩国"
+        ]
+    },
+    {
+        "question": "金绮泳就读的大学位于哪个行政领土实体？",
+        "o_answer": "冠岳区",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "托尼·布莱尔的工作地点位于哪个国家？",
+        "o_answer": "英国",
+        "o_answer_aliases": [
+            "联合王国",
+            "大不列颠及北爱尔兰联合王国"
+        ]
+    },
+    {
+        "question": "托尼·布莱尔的工作地点所在大洲是哪里？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "杰玛·梅斯是哪个大洲的国籍？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "唐纳德·巴塞尔姆的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "唐纳德·巴塞尔姆是哪个大洲的人？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "戴维·帕卡德曾经在哪个国家的大学就读？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "诺尔·盖勒格的国籍所在大洲是哪个？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "诺尔·盖勒格的国籍的行政中心是哪里？",
+        "o_answer": "伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "苏斯博士就读的学院位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "苏斯博士所在学院的行政领土实体是哪里？",
+        "o_answer": "汉诺威",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "拜罗伊特音乐节的创办者的配偶是谁？",
+        "o_answer": "柯西玛",
+        "o_answer_aliases": [
+            "柯西玛·瓦格纳"
+        ]
+    },
+    {
+        "question": "拜罗伊特音乐节的创办者出生在哪里？",
+        "o_answer": "莱比锡",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "拜罗伊特音乐节的创办者是从事什么职业的？",
+        "o_answer": "作家",
+        "o_answer_aliases": [
+            "文学家"
+        ]
+    },
+    {
+        "question": "拜罗伊特音乐节的创办者曾就读于哪里？",
+        "o_answer": "莱比锡大学",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "奥列格·戈尔季耶夫斯基出生在哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "奥列格·戈尔季耶夫斯基出生于哪个国家？",
+        "o_answer": "俄罗斯",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "蒙莫朗西公爵去世于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "迈克·梅尔斯通晓的语言是属于哪个国家的？",
+        "o_answer": "加拿大",
+        "o_answer_aliases": [
+            "坎拿大"
+        ]
+    },
+    {
+        "question": "iCloud的开发者属于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "莉莉·科尔的国籍的行政中心是哪里？",
+        "o_answer": "伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "法网恢恢的产地所在的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "法网恢恢是哪个大洲的产物？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "玛格丽特·米切尔去世于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "乔纳斯兄弟的出产地是哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "巴士比·柏克莱的国籍属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "让·季洛杜是哪个大洲的国籍？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "伊马特拉的官方语言属于哪个国家？",
+        "o_answer": "挪威",
+        "o_answer_aliases": [
+            "挪威王国"
+        ]
+    },
+    {
+        "question": "菲利普三世的国籍的行政中心是哪里？",
+        "o_answer": "巴黎",
+        "o_answer_aliases": [
+            "巴黎市"
+        ]
+    },
+    {
+        "question": "菲利普三世的国籍位于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "琼·莱斯利的国籍是哪个城市的行政中心？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "国际汽车联合会的领导者的配偶是谁？",
+        "o_answer": "杨紫琼",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "国际汽车联合会的领导者的出生地是哪里？",
+        "o_answer": "皮埃尔福",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "拿破仑出生在哪个国家？",
+        "o_answer": "法国",
+        "o_answer_aliases": [
+            "法兰西共和国",
+            "法兰西"
+        ]
+    },
+    {
+        "question": "亨利·卢斯的配偶去世时身处何处？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "亨利·卢斯的配偶出生在哪个地方？",
+        "o_answer": "纽约",
+        "o_answer_aliases": [
+            "纽约市"
+        ]
+    },
+    {
+        "question": "鹧鸪家庭的首播平台是由谁创办的？",
+        "o_answer": "爱德华·约翰·诺布尔",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "鹧鸪家庭在哪个国家首播？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "哈罗德·尼科尔森的工作地点位于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "ILife的开发者属于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "爱情乒乓球是在哪个国家的电视台首播的？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "绿山墙的安妮的作者是什么职业？",
+        "o_answer": "作家",
+        "o_answer_aliases": [
+            "文学家"
+        ]
+    },
+    {
+        "question": "绿山墙的安妮的作者去世于哪里？",
+        "o_answer": "多伦多",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "朱莉安娜·尼科尔森的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "朱莉安娜·尼科尔森的国籍属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "朱莉安娜·尼科尔森的国籍的国家的国家元首是谁？",
+        "o_answer": "乔·拜登",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "玛利亚·施奈德 (音乐家)的国籍所在大洲是哪里？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "卡尔·马克思去世于哪个国家？",
+        "o_answer": "英国",
+        "o_answer_aliases": [
+            "联合王国",
+            "大不列颠及北爱尔兰联合王国"
+        ]
+    },
+    {
+        "question": "沙丘小说的作者出生在哪里？",
+        "o_answer": "塔科马",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "沙丘小说的作者是什么职业？",
+        "o_answer": "摄影师",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "利亚姆·海姆斯沃斯的配偶的唱片公司是哪个？",
+        "o_answer": "华特迪士尼唱片公司",
+        "o_answer_aliases": [
+            "华特迪士尼唱片"
+        ]
+    },
+    {
+        "question": "蒙特塞拉特·卡瓦列的国籍属于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "广岛高等师范学校的学生就读的大学位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "帕特里克·斯图尔特通晓的语言是哪个国家的？",
+        "o_answer": "加拿大",
+        "o_answer_aliases": [
+            "坎拿大"
+        ]
+    },
+    {
+        "question": "爵士乐发源地位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "爵士乐的起源地属于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "格洛丽亚·格雷厄姆通晓的语言是哪个国家的官方语言？",
+        "o_answer": "加拿大",
+        "o_answer_aliases": [
+            "坎拿大"
+        ]
+    },
+    {
+        "question": "京东商城的总部位于哪个国家？",
+        "o_answer": "中华人民共和国",
+        "o_answer_aliases": [
+            "中国"
+        ]
+    },
+    {
+        "question": "《Channel Orange》的表演者是哪个职业？",
+        "o_answer": "摄影师",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "Channel Orange的表演者来自哪个城市？",
+        "o_answer": "长滩",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "乔治·R·R·马丁通晓的语言属于哪个国家？",
+        "o_answer": "加拿大",
+        "o_answer_aliases": [
+            "坎拿大"
+        ]
+    },
+    {
+        "question": "约翰内斯·开普勒在哪个国家读大学？",
+        "o_answer": "德国",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "雪佛兰Caprice的生产商总部位于哪里？",
+        "o_answer": "底特律",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "雪佛兰Caprice的生产商位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "雪佛兰Caprice的生产商总部位于哪里？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "基尔大学的总部位置所在的行政领土实体是什么？",
+        "o_answer": "石勒苏益格-荷尔斯泰因",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "基尔大学的总部位置位于哪个国家？",
+        "o_answer": "德国",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "格雷丝·柯立芝是哪个大洲的国籍？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "格雷丝·柯立芝的国籍对应的行政中心位于哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "卢坎去世时所在城市的官方语言是什么？",
+        "o_answer": "意大利语",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "凯莉·麦吉利斯的国籍属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "凯莉·麦吉利斯的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "生物股长是产自哪个国家？",
+        "o_answer": "日本",
+        "o_answer_aliases": [
+            "日本国",
+            "大日本帝国"
+        ]
+    },
+    {
+        "question": "2013年瑞典旋律节是在哪个国家举办的？",
+        "o_answer": "瑞典",
+        "o_answer_aliases": [
+            "瑞典王国"
+        ]
+    },
+    {
+        "question": "塞思·麦克法兰是哪个大洲的人？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "凯瑟琳·泽塔-琼斯是哪个大洲的人？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "阇耶跋摩二世是哪个大洲的国籍？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "hitomi的国籍属于哪个大洲？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "德国国家足球队的主管出生在哪里？",
+        "o_answer": "卡尔斯鲁厄",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "德国国家足球队的主管是哪国人？",
+        "o_answer": "德国",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "丹尼尔·高尔曼曾在哪个国家的大学任职？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "厄文·卡普兰斯基的雇主位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "约翰·罗尔斯的国籍属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "音樂電視網的总部所在城市位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "威廉·罗斯克兰斯是哪个大洲的人？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "蒂普·奥尼尔所在学院位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "宝石迷阵的开发者位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "宝石迷阵的开发者公司位于哪里？",
+        "o_answer": "西雅图",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "亨利·凯泽的国籍属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "暴君焚城录是哪个国家的产物？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "暴君焚城录是由哪个行政中心所在国家制作的？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "电光乐队的产地属于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "电光乐队的产地所在的行政中心是哪里？",
+        "o_answer": "伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "斯塔比·凯尔的国籍所在的大洲是哪个？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "东古阿卜杜勒·拉赫曼是哪个大洲的人？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "苏格兰民族党的领导者的职业是什么？",
+        "o_answer": "律师",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "Valve的主管出生在哪里？",
+        "o_answer": "科罗拉多州",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "吉尔伯特·凯茨是哪个大洲的国民？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "吉尔伯特·凯茨的国籍所在国的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "吉尔伯特·凯茨的国籍对应的官方语言是什么？",
+        "o_answer": "英语",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "《捉鬼敢死队II》的产地的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "捉鬼敢死队II是由哪个大洲的制片公司制作的？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "《捉鬼敢死队II》是哪个国家的电影？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "沃尔特·李普曼曾在哪个行政领土实体的大学就读？",
+        "o_answer": "剑桥",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "沃尔特·李普曼曾经在哪个国家的大学就读？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "菲利斯·斯拉夫莱的国籍是哪个国家的行政中心？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "传送门的开发公司位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "海贼王的作者出生在哪里？",
+        "o_answer": "熊本市",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "秘密部队 (电视剧)是由哪个国家的广播公司首播的？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "童话镇是在哪个国家首播的？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "图-95的开发者是哪个国家的公司？",
+        "o_answer": "俄罗斯",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "玛格丽特·布尔克-怀特是哪个大洲的人？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "玛格丽特·布尔克-怀特的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "安德烈·坎普拉的国籍属于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "雅克·希拉克的国籍对应的行政中心是哪里？",
+        "o_answer": "巴黎",
+        "o_answer_aliases": [
+            "巴黎市"
+        ]
+    },
+    {
+        "question": "樊尚·奥里奥尔的工作地点位于哪个国家？",
+        "o_answer": "法国",
+        "o_answer_aliases": [
+            "法兰西共和国",
+            "法兰西"
+        ]
+    },
+    {
+        "question": "约翰一书的作者出生于哪里？",
+        "o_answer": "加利利",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "卡尔·马克思通晓的语言所属国家是哪个？",
+        "o_answer": "比利时",
+        "o_answer_aliases": [
+            "比利时王国"
+        ]
+    },
+    {
+        "question": "温德·皮尔斯的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "向加泰罗尼亚致敬的作者去世于哪里？",
+        "o_answer": "伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "迪娜·迈耶是哪个大洲的国籍？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "迪娜·迈耶的国籍所在的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "艾伦·德肖维茨曾在哪个国家的大学任职？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "《一千个小丑》的拍摄地点位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "《一千个小丑》是在哪个大洲产生的？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "刀锋边缘的产地位于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "刀锋边缘是由哪个国家的制片公司制作的？",
+        "o_answer": "德国",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "罗伯特·皮尔的工作地点位于哪个国家？",
+        "o_answer": "英国",
+        "o_answer_aliases": [
+            "联合王国",
+            "大不列颠及北爱尔兰联合王国"
+        ]
+    },
+    {
+        "question": "西孟加拉邦的政府首脑从事什么职业？",
+        "o_answer": "诗人",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "西孟加拉邦的政府首脑出生在哪里？",
+        "o_answer": "加尔各答",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "涂美倫的国籍位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "涂美倫的国籍的国家元首是谁？",
+        "o_answer": "乔·拜登",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "威廉·珀金出生在哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "威廉·珀金出生于哪个行政领土实体？",
+        "o_answer": "大伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "威廉·珀金出生在哪个国家？",
+        "o_answer": "英国",
+        "o_answer_aliases": [
+            "联合王国",
+            "大不列颠及北爱尔兰联合王国"
+        ]
+    },
+    {
+        "question": "威廉·珀金的出生地使用哪种官方语言？",
+        "o_answer": "英语",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "迪克·艾尔斯的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "迪克·艾尔斯是哪个大洲的国籍？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "迪克·艾尔斯的国籍使用哪种语言？",
+        "o_answer": "英语",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "弗朗西斯·福山的国籍位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "弗朗西斯·福山的国籍对应的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "费尔南多·阿拉巴尔就读的大学位于哪个国家？",
+        "o_answer": "西班牙",
+        "o_answer_aliases": [
+            "西班牙王国"
+        ]
+    },
+    {
+        "question": "艾德·希兰通晓的语言属于哪个国家？",
+        "o_answer": "加拿大",
+        "o_answer_aliases": [
+            "坎拿大"
+        ]
+    },
+    {
+        "question": "约翰·弗里德里克·格梅林的国籍属于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "约翰·弗里德里克·格梅林的国籍所使用的官方语言是什么？",
+        "o_answer": "德语",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "派拉蒙电影公司的总部位于哪个城市？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "赛·扬的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "B-47轰炸机的开发者是哪个国家的公司？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "贝拉克·奥巴马的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "Windows 3.1x的开发者总部位置在哪里？",
+        "o_answer": "雷德蒙德",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "Windows 3.1x的开发者来自哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "帕卡德的总部位置位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "诸葛漫的国籍属于哪个大洲？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "诸葛漫的国籍所在国的行政中心是哪里？",
+        "o_answer": "耶路撒冷",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "尼尔·克罗斯就读的大学位于哪个国家？",
+        "o_answer": "英国",
+        "o_answer_aliases": [
+            "联合王国",
+            "大不列颠及北爱尔兰联合王国"
+        ]
+    },
+    {
+        "question": "多西泰伊·欧布拉道维奇的雇主位于哪个行政领土实体？",
+        "o_answer": "贝尔格莱德",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "莱昂·科索夫的出生地是哪个行政领土实体？",
+        "o_answer": "大伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "莱昂·科索夫的出生地有哪些友好城市？",
+        "o_answer": "纽约",
+        "o_answer_aliases": [
+            "纽约市"
+        ]
+    },
+    {
+        "question": "莱昂·科索夫的出生地使用的是哪种官方语言？",
+        "o_answer": "英语",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "莱昂·科索夫出生在哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "腾讯的首席执行官是哪个国家的人？",
+        "o_answer": "中华人民共和国",
+        "o_answer_aliases": [
+            "中国"
+        ]
+    },
+    {
+        "question": "秘密部队 (电视剧)的制作地点位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "秘密部队 (电视剧)的制作地点位于哪个城市？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "宋庆龄的国籍所在国的行政中心是哪里？",
+        "o_answer": "北京市",
+        "o_answer_aliases": [
+            "北京",
+            "京",
+            "帝都"
+        ]
+    },
+    {
+        "question": "梦幻岛的创办者是谁？",
+        "o_answer": "爱德华·约翰·诺布尔",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "格雷格·奥登的国籍是哪个大洲的？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "格雷格·奥登的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "苏珊·柯林斯是哪个大洲的人？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "苏珊·柯林斯的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "约翰·C·斯坦尼斯的国籍属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "Valve的首席执行官曾就读于哪里？",
+        "o_answer": "哈佛大学",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "Valve的首席执行官出生在哪里？",
+        "o_answer": "科罗拉多州",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "Valve的首席执行官通晓哪两种语言？",
+        "o_answer": "英语",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "伊桑巴德·金德姆·布鲁内尔的国籍的行政中心位于哪里？",
+        "o_answer": "伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "伊桑巴德·金德姆·布鲁内尔是哪个大洲的国民？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "普密蓬·阿杜德的国籍是属于哪个大洲？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "人权的作者去世于哪里？",
+        "o_answer": "格林尼治村",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "人权的作者是什么职业？",
+        "o_answer": "作家",
+        "o_answer_aliases": [
+            "文学家"
+        ]
+    },
+    {
+        "question": "乔治·巴代伊的国籍所在国的行政中心是哪里？",
+        "o_answer": "巴黎",
+        "o_answer_aliases": [
+            "巴黎市"
+        ]
+    },
+    {
+        "question": "乔治·巴代伊的国籍是属于哪个大洲的？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "夜色温柔的作者曾经在哪里就读？",
+        "o_answer": "普林斯顿大学",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "威廉·佐尔夫的国籍所在大洲是哪个？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "威廉·佐尔夫的国籍所属国家的行政中心是哪里？",
+        "o_answer": "柏林",
+        "o_answer_aliases": [
+            "柏林市"
+        ]
+    },
+    {
+        "question": "IMovie的开发者位于哪里？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "弗勒里的国籍是哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "弗勒里的国家的行政中心是哪里？",
+        "o_answer": "巴黎",
+        "o_answer_aliases": [
+            "巴黎市"
+        ]
+    },
+    {
+        "question": "蝙蝠侠：黑暗骑士的创作者来自哪里？",
+        "o_answer": "伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "蝙蝠侠：黑暗骑士的创作者曾经就读于哪所学校？",
+        "o_answer": "伦敦大学学院",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "胡果·格老秀斯就读于哪个行政领土实体？",
+        "o_answer": "莱顿",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "胡果·格老秀斯就读的大学位于哪个国家？",
+        "o_answer": "荷兰",
+        "o_answer_aliases": [
+            "尼德兰",
+            "尼德兰王国"
+        ]
+    },
+    {
+        "question": "谢军的国籍属于哪个大洲？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "阿兰·古斯的雇主位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "摇滚乐的产地的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "摇滚乐的发源地属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "摇滚乐的发源地是哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "羅伯特·弗朗西斯·甘迺迪的配偶从事哪两种职业？",
+        "o_answer": "社交名流",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "羅伯特·弗朗西斯·甘迺迪的配偶出生地是哪里？",
+        "o_answer": "芝加哥",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "米开朗琪罗通晓的语言是哪个国家的语言？",
+        "o_answer": "意大利",
+        "o_answer_aliases": [
+            "意大利共和国"
+        ]
+    },
+    {
+        "question": "穆扎法尔丁·沙去世地点位于哪个国家？",
+        "o_answer": "伊朗",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "沃顿商学院的总部位置所在城市位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "托尼·帕克曾为哪个国家的球队效力？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "Windows 3.1的开发者来自哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "莱塞尼亚·恩加拉塞是哪个大洲的国籍？",
+        "o_answer": "太平洋岛屿地区",
+        "o_answer_aliases": [
+            "太平洋三大岛群"
+        ]
+    },
+    {
+        "question": "魔卡少女樱的作者来自哪个国家？",
+        "o_answer": "日本",
+        "o_answer_aliases": [
+            "日本国",
+            "大日本帝国"
+        ]
+    },
+    {
+        "question": "麦金塔操作系统十狮子的开发者的总部位置在哪里？",
+        "o_answer": "丘珀蒂诺",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "麦金塔操作系统十狮子的开发者所属国家是哪个？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "格拉迪斯·乔治的国籍位于哪个行政中心？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "约翰·汉考克曾在哪个国家的大学就读？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "斯蒂芬妮·迈耶能够讲什么国家的语言？",
+        "o_answer": "加拿大",
+        "o_answer_aliases": [
+            "坎拿大"
+        ]
+    },
+    {
+        "question": "纽约洋基的主教练从事什么职业？",
+        "o_answer": "棒球运动员",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "亨利·沃兹沃思·朗费罗曾在哪个国家的大学任职？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "亨利·沃兹沃思·朗费罗的雇主所在地的行政领土实体是哪里？",
+        "o_answer": "剑桥",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "美丽心灵是属于哪个大洲的产物？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "美丽心灵是在哪个国家制作的？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "葡萄牙的政府首脑出生地在哪里？",
+        "o_answer": "里斯本",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "葡萄牙的政府首脑通晓哪两种语言？",
+        "o_answer": "法语",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "斯坦·李的国籍位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "帕特里克·奥尼尔的国籍所在的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "伊留申航空集团的总部位于哪个行政领土实体？",
+        "o_answer": "俄罗斯",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "伊留申航空集团的总部位于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "非洲新闻社的产地位于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "泰勒·斯威夫特的工作地点位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "克里斯·康纳的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "拉朗德的国籍的官方语言是什么？",
+        "o_answer": "法语",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "独立工党的创办者去世于哪里？",
+        "o_answer": "格拉斯哥",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "乔伦娜在哪个地方表演？",
+        "o_answer": "纳什维尔",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "大卫·迪克逊·波特的国籍属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "尼摩船长的创作作者出生地在哪里？",
+        "o_answer": "南特",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "理查德·阿滕伯勒的国籍所在地的行政中心是哪里？",
+        "o_answer": "伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "理查德·阿滕伯勒的国籍是哪个国家的政府首脑？",
+        "o_answer": "里希·苏纳克",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "威廉·詹姆斯的国籍是哪个国家的国家元首？",
+        "o_answer": "乔·拜登",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "苹果公司的总部位于哪个城市？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "洛朗·古维翁-圣西尔的国籍所在国的行政中心是哪里？",
+        "o_answer": "巴黎",
+        "o_answer_aliases": [
+            "巴黎市"
+        ]
+    },
+    {
+        "question": "洛朗·古维翁-圣西尔是哪个大洲的人？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "罗伯·施奈德的国籍属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "《理想国》的作者出生在哪个地方？",
+        "o_answer": "雅典",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "乔治·迈肯的国籍所属国家的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "通用汽车的产地位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "通用汽车的产地所在地是哪个城市？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "通用汽车的生产基地位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "Windows 95的开发者属于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "奥古斯丁纳斯·沃尔德马拉斯的国籍的行政中心位于哪里？",
+        "o_answer": "维尔纽斯",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "诺曼·拉蒙特的工作地点位于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "诺曼·拉蒙特的工作地点位于哪个国家？",
+        "o_answer": "英国",
+        "o_answer_aliases": [
+            "联合王国",
+            "大不列颠及北爱尔兰联合王国"
+        ]
+    },
+    {
+        "question": "因克瑞斯·马瑟就读的大学位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "中国海滩是位于哪个国家的行政中心？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "中国海滩位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "中国海滩是属于哪个国家的产地？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "中国海滩所在地的官方语言是什么？",
+        "o_answer": "英语",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "Kubuntu的开发者所属国家是哪里？",
+        "o_answer": "英国",
+        "o_answer_aliases": [
+            "联合王国",
+            "大不列颠及北爱尔兰联合王国"
+        ]
+    },
+    {
+        "question": "霍普·兰吉的国籍所在的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "斯蒂芬妮·迈耶曾经就读于哪个国家的大学？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "诺曼·李尔是来自哪个大洲的？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "本雅明·内塔尼亚胡的工作地点位于哪个国家？",
+        "o_answer": "以色列",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "本雅明·内塔尼亚胡的工作地点位于哪个大洲？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "欧内斯特·海明威出生在哪个国家的奥克帕克？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "永平道元去世于哪个国家？",
+        "o_answer": "日本",
+        "o_answer_aliases": [
+            "日本国",
+            "大日本帝国"
+        ]
+    },
+    {
+        "question": "一条天皇的国籍属于哪个城市所在的行政中心？",
+        "o_answer": "东京都",
+        "o_answer_aliases": [
+            "东京"
+        ]
+    },
+    {
+        "question": "汤姆·福特的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "环球摩城唱片的创办者来自哪个城市？",
+        "o_answer": "底特律",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "毛瑟C96手枪的产地位于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "贾斯廷·特鲁多的工作地点位于哪个行政领土实体？",
+        "o_answer": "安大略省",
+        "o_answer_aliases": [
+            "安省"
+        ]
+    },
+    {
+        "question": "伊薇特·库珀的工作地点位于哪个国家？",
+        "o_answer": "英国",
+        "o_answer_aliases": [
+            "联合王国",
+            "大不列颠及北爱尔兰联合王国"
+        ]
+    },
+    {
+        "question": "戴维·芒德尔的国籍属于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "凯西·罗宾逊是来自哪个大洲的？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "墨西哥的行政中心位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "科丽塔·斯科特·金的配偶的出生地是哪里？",
+        "o_answer": "亚特兰大",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "科丽塔·斯科特·金的配偶从事着哪些职业？",
+        "o_answer": "作家",
+        "o_answer_aliases": [
+            "文学家"
+        ]
+    },
+    {
+        "question": "奥德里奇·艾姆斯曾受雇于哪个国家的机构？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "N-Gage的生产商总部位于哪里？",
+        "o_answer": "埃斯波",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "永别了，武器的产地所在城市是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "永别了，武器是在哪个国家生产的？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "约翰·济慈去世的地方是哪个国家？",
+        "o_answer": "意大利",
+        "o_answer_aliases": [
+            "意大利共和国"
+        ]
+    },
+    {
+        "question": "约翰·济慈去世于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "威廉·詹姆斯的雇主位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "吴廷觉的国籍的行政中心是哪里？",
+        "o_answer": "内比都",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "利库德集团的领导者出生在哪里？",
+        "o_answer": "特拉维夫",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "利库德集团的领导者信奉着哪个信仰？",
+        "o_answer": "犹太教",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "天外来菌的作者去世于哪个地方？",
+        "o_answer": "洛杉矶",
+        "o_answer_aliases": [
+            "洛杉矶市"
+        ]
+    },
+    {
+        "question": "天外来菌的作者从事着什么职业？",
+        "o_answer": "编剧",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "天外来菌的作者出生于哪里？",
+        "o_answer": "芝加哥",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "天外来菌的作者曾经就读于哪里？",
+        "o_answer": "哈佛大学",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "赎金风暴是哪个国家的产物？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "赎金风暴是哪个行政中心的产地？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "宫本茂的国籍属于哪个大洲？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "宫本茂的国籍是哪个行政中心？",
+        "o_answer": "东京都",
+        "o_answer_aliases": [
+            "东京"
+        ]
+    },
+    {
+        "question": "卡罗琳·卢卡斯的国籍所属大洲是哪个？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "卡罗琳·卢卡斯的国籍所属的行政中心是哪里？",
+        "o_answer": "伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "威廉·亨顿 (律师)的国籍位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "魔女嘉莉的产地是哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "魔女嘉莉的故事发生在哪个城市？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "魔女嘉莉的产地位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "杰米·李·柯蒂斯的国籍所在国的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "杰米·李·柯蒂斯是哪个大洲的国籍？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "罗尼·科尔曼的国籍属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "劳丽·梅特卡夫是哪个大洲的国籍？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "英格兰的国家元首是谁的孩子？",
+        "o_answer": "查尔斯三世",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "英格兰的国家元首出生在哪里？",
+        "o_answer": "梅费尔",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "欧文·帕雷特的国籍所在国的行政中心是哪里？",
+        "o_answer": "渥太华",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "欧文·帕雷特是哪个大洲的国籍？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "木乃伊2是在哪个大洲制作的？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "木乃伊2的拍摄地点位于哪个城市？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "伊丽莎白·H·多勒的工作地点位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "伊丽莎白·H·多勒的工作地点位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "马文·盖伊去世地位于哪个行政领土实体？",
+        "o_answer": "洛杉矶县",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "马文·盖伊去世于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "大卫·哈塞尔霍夫的国籍所在地的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "阿格涅丝卡·霍兰的国籍所在国的行政中心是哪里？",
+        "o_answer": "华沙",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "杰瑞·福多的国籍属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "亚西西的嘉勒信奉的宗教由谁创办？",
+        "o_answer": "耶稣",
+        "o_answer_aliases": [
+            "耶稣基督",
+            "拿撒勒人耶稣"
+        ]
+    },
+    {
+        "question": "让-克洛德·杜瓦利埃是哪个大洲国家的公民？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "多格雷·斯科特的国籍的行政中心是哪里？",
+        "o_answer": "伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "多格雷·斯科特是哪个大洲的人？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "托马斯·多尔比出生地的行政领土实体是哪里？",
+        "o_answer": "大伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "托马斯·多尔比出生在哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "愤怒的葡萄的作者去世于哪里？",
+        "o_answer": "纽约",
+        "o_answer_aliases": [
+            "纽约市"
+        ]
+    },
+    {
+        "question": "迷失的首播平台是由谁创办的？",
+        "o_answer": "爱德华·约翰·诺布尔",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "迷失是在哪个国家的电视台首播的？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "迷失首播平台的总部位置在哪里？",
+        "o_answer": "纽约",
+        "o_answer_aliases": [
+            "纽约市"
+        ]
+    },
+    {
+        "question": "托尔尼奥的官方语言所属的国家是哪个？",
+        "o_answer": "挪威",
+        "o_answer_aliases": [
+            "挪威王国"
+        ]
+    },
+    {
+        "question": "U2乐队的产地是哪个国家？",
+        "o_answer": "爱尔兰",
+        "o_answer_aliases": [
+            "爱尔兰共和国"
+        ]
+    },
+    {
+        "question": "U2乐队的产地位于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "炫彬是来自哪个大洲的？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "德克·诺维茨基的国籍位于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "德克·诺维茨基的国籍所在国家的行政中心是哪里？",
+        "o_answer": "柏林",
+        "o_answer_aliases": [
+            "柏林市"
+        ]
+    },
+    {
+        "question": "蓝屏死机是由哪个国家的公司开发的？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "胜利之歌的产地是哪个国家的行政中心？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "胜利之歌的产地位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "胜利之歌的产地位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "迪娜·梅瑞尔的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "米雪·道克利的主要作品属于哪种类型？",
+        "o_answer": "剧情类电视剧",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "米雪·道克利的主要作品使用的原始语言是什么？",
+        "o_answer": "英语",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "克拉拉·鲍的国籍位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "iPhone 4的生产商位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "威廉·莎士比亚去世的地方属于哪个国家？",
+        "o_answer": "英国",
+        "o_answer_aliases": [
+            "联合王国",
+            "大不列颠及北爱尔兰联合王国"
+        ]
+    },
+    {
+        "question": "丰崎爱生的国籍属于哪个大洲？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "哈姆雷特的作者去世于哪里？",
+        "o_answer": "埃文河畔斯特拉特福",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "喜新不厌旧这部节目首播在哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "服务器信息区块的开发者来自哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "卡特里奥娜·马修的国籍的行政中心是哪里？",
+        "o_answer": "伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "斐多篇的作者出生于哪里？",
+        "o_answer": "雅典",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "斐多篇的作者去世于哪里？",
+        "o_answer": "雅典",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "无事生非的作者出生地是哪里？",
+        "o_answer": "埃文河畔斯特拉特福",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "无事生非的作者的配偶是谁？",
+        "o_answer": "安妮·哈瑟维 (莎士比亚之妻)",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "克里斯托夫·布劳赫的国籍属于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "戴瑞奇·麦瑞的国籍所在国家的行政中心是哪里？",
+        "o_answer": "德黑兰",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "托马斯·伯蒂奇的国籍属于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "贝特朗·杜·盖克兰的国籍位于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "雅各布·伯努利的雇主位于哪个国家？",
+        "o_answer": "瑞士",
+        "o_answer_aliases": [
+            "瑞士联邦",
+            "CH"
+        ]
+    },
+    {
+        "question": "iOS 10的开发者位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "Windows 2000的生产商是哪个国家的公司？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "迈克尔·芬利的国籍属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "凯文·威廉森的国籍位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "凯文·威廉森的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "莱昂·德格雷勒的国籍位于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "雅克·蒂奥是哪个大洲的国籍？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "卡尔·富兰克林的国籍对应的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "卡尔·富兰克林的国籍所属大洲是哪个？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "阳光小美女的产地是哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "阳光小美女是在哪个大洲生产的？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "里查·塞拉的出生地位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "让-皮埃尔·里奥是哪个大洲的国籍？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "贺瑞斯·沃波尔去世于哪个国家？",
+        "o_answer": "英国",
+        "o_answer_aliases": [
+            "联合王国",
+            "大不列颠及北爱尔兰联合王国"
+        ]
+    },
+    {
+        "question": "贺瑞斯·沃波尔去世于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "温斯顿·丘吉尔的国籍的行政中心是哪里？",
+        "o_answer": "伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "温斯顿·丘吉尔的国籍是属于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "戈登·摩尔的国籍所在国家的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "杰米罗奎尔的成立地点位于哪个国家？",
+        "o_answer": "英国",
+        "o_answer_aliases": [
+            "联合王国",
+            "大不列颠及北爱尔兰联合王国"
+        ]
+    },
+    {
+        "question": "彼得·格林的国籍位于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "蓝色月光首播于哪个国家的广播公司？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "《时代在改变》的表演者曾在哪里工作？",
+        "o_answer": "纽约",
+        "o_answer_aliases": [
+            "纽约市"
+        ]
+    },
+    {
+        "question": "保罗·艾伦的雇主总部位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "麦金塔操作系统十美洲狮是由哪个国家的公司开发的？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "名侦探柯南的作者的配偶是谁？",
+        "o_answer": "高山南",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "名侦探柯南的作者出生在哪里？",
+        "o_answer": "日本",
+        "o_answer_aliases": [
+            "日本国",
+            "大日本帝国"
+        ]
+    },
+    {
+        "question": "RIM-2导弹的制造地点位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "RIM-2导弹的产地所在城市是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "《仲夏夜之梦》的作者的配偶是谁？",
+        "o_answer": "安妮·哈瑟维 (莎士比亚之妻)",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "《仲夏夜之梦》的作者去世于哪里？",
+        "o_answer": "埃文河畔斯特拉特福",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "约瑟夫·斯托瑞就读于哪个国家的大学？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "艾拉妮丝·莫莉塞特是哪个大洲的国籍？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "雷克斯·哈里森的国籍位于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "第85届奥斯卡金像奖的首播平台是哪个国家的？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "第85届奥斯卡金像奖的首播平台由谁创办的？",
+        "o_answer": "爱德华·约翰·诺布尔",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "安德雷亚斯·维萨里通晓的语言属于哪个国家？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "尤利娅·利普尼茨卡娅的国籍属于哪个国家的行政中心？",
+        "o_answer": "莫斯科",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "萨拉查就读的大学位于哪个国家？",
+        "o_answer": "葡萄牙",
+        "o_answer_aliases": [
+            "葡萄牙共和国",
+            "葡国"
+        ]
+    },
+    {
+        "question": "华盛顿·欧文通晓的语言所属国家是哪个？",
+        "o_answer": "加拿大",
+        "o_answer_aliases": [
+            "坎拿大"
+        ]
+    },
+    {
+        "question": "阿兰·霍灵赫斯特是哪个大洲的国籍？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "阿兰·霍灵赫斯特的国籍的行政中心是哪里？",
+        "o_answer": "伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "阿兰·霍灵赫斯特是哪个组织的成员？",
+        "o_answer": "欧洲联盟",
+        "o_answer_aliases": [
+            "欧盟",
+            "🇪🇺"
+        ]
+    },
+    {
+        "question": "阿兰·霍灵赫斯特的国籍的国家的国家元首是谁？",
+        "o_answer": "查尔斯三世",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "阿兰·霍灵赫斯特的国籍所属国家的官方语言是什么？",
+        "o_answer": "英语",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "悲惨世界的故事发生在哪个国家？",
+        "o_answer": "法国",
+        "o_answer_aliases": [
+            "法兰西共和国",
+            "法兰西"
+        ]
+    },
+    {
+        "question": "悲惨世界是产自哪个国家的行政中心？",
+        "o_answer": "巴黎",
+        "o_answer_aliases": [
+            "巴黎市"
+        ]
+    },
+    {
+        "question": "圣母百花圣殿的信奉总部位于哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "埃尔达尔·梁赞诺夫去世于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "埃尔达尔·梁赞诺夫去世于哪个国家？",
+        "o_answer": "俄罗斯",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "弗拉基米尔·日里诺夫斯基的工作地点位于哪个国家？",
+        "o_answer": "俄罗斯",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "乔治·大卫·威斯的国籍是属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "AGM-84导弹的产地所在大洲是哪里？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "AGM-84导弹的产地所在的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "纽约重案组是在哪个国家的首播平台？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "纽约重案组首播平台是谁创办的？",
+        "o_answer": "爱德华·约翰·诺布尔",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "纽约重案组的首播平台总部位于哪里？",
+        "o_answer": "纽约",
+        "o_answer_aliases": [
+            "纽约市"
+        ]
+    },
+    {
+        "question": "法网恢恢是由哪个国家的广播公司首播的？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "法网恢恢的首播平台是由谁创办的？",
+        "o_answer": "爱德华·约翰·诺布尔",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "《丑女贝蒂》首播平台所在国家是哪个？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "丑女贝蒂的首播平台由谁创办？",
+        "o_answer": "爱德华·约翰·诺布尔",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "丑女贝蒂的首播平台总部位于哪里？",
+        "o_answer": "纽约",
+        "o_answer_aliases": [
+            "纽约市"
+        ]
+    },
+    {
+        "question": "乔治·桑塔亚那的雇主位于哪个行政领土实体？",
+        "o_answer": "剑桥",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "蒂埃里·米格莱尔的国籍位于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "威廉·赫斯特出生在哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "关智一是哪个大洲的人？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "希尔伯特公理的创作作者从事什么职业？",
+        "o_answer": "物理学家",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "吉姆·亨森通晓的语言属于哪个国家？",
+        "o_answer": "加拿大",
+        "o_answer_aliases": [
+            "坎拿大"
+        ]
+    },
+    {
+        "question": "西尔维娅·普拉斯通晓的语言属于哪个国家？",
+        "o_answer": "加拿大",
+        "o_answer_aliases": [
+            "坎拿大"
+        ]
+    },
+    {
+        "question": "安娜丽·奈维茨所就读的大学位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "乌克兰真理报的产地所在地的行政中心是哪里？",
+        "o_answer": "基辅",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "浪客剑心的原始语言是哪个国家的语言？",
+        "o_answer": "日本",
+        "o_answer_aliases": [
+            "日本国",
+            "大日本帝国"
+        ]
+    },
+    {
+        "question": "橙县纪事报是哪个大洲的产物？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "克利夫·史戴普·路易斯的国籍位于哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "莱恩·墨菲信奉的宗教总部位于哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "尼古拉斯‧马勒伯朗士信奉的组织总部位于哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "尼古拉斯‧马勒伯朗士信仰的宗教的成立地点位于哪里？",
+        "o_answer": "耶路撒冷",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "米兰达·兰伯特的配偶从事哪个职业？",
+        "o_answer": "歌手",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "米兰达·兰伯特的配偶创立了什么地方？",
+        "o_answer": "纳什维尔",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "米兰达·兰伯特的配偶是哪个国家的人？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "Daft Punk的产地所属的行政中心是哪里？",
+        "o_answer": "巴黎",
+        "o_answer_aliases": [
+            "巴黎市"
+        ]
+    },
+    {
+        "question": "加拿大德哈维兰飞行器有限公司的总部位于哪个国家？",
+        "o_answer": "加拿大",
+        "o_answer_aliases": [
+            "坎拿大"
+        ]
+    },
+    {
+        "question": "加拿大德哈维兰飞行器有限公司的总部位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "培尼亚·涅托信奉的宗教由谁创办的？",
+        "o_answer": "耶稣",
+        "o_answer_aliases": [
+            "耶稣基督",
+            "拿撒勒人耶稣"
+        ]
+    },
+    {
+        "question": "蒂姆·伯纳斯-李的国籍是哪个国家的行政中心？",
+        "o_answer": "伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "大卫·贝克汉姆在足球队中担任哪个位置？",
+        "o_answer": "足球",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "韩国流行音乐是产自哪个大洲？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "上帝错觉的作者是什么职业？",
+        "o_answer": "编剧",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "格兰特·伍德是哪个大洲的国民？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "格兰特·伍德的国籍所在的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "萨达姆·侯赛因的国籍位于哪个大洲？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "彼得·福斯科尔出生于哪个国家？",
+        "o_answer": "芬兰",
+        "o_answer_aliases": [
+            "芬兰共和国"
+        ]
+    },
+    {
+        "question": "彼得·福斯科尔出生在哪个大洲？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "威尔·赖特的国籍位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "卢修斯三世信奉的宗教由谁创办？",
+        "o_answer": "耶稣",
+        "o_answer_aliases": [
+            "耶稣基督",
+            "拿撒勒人耶稣"
+        ]
+    },
+    {
+        "question": "博义九世信奉的宗教总部位于哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "約翰·安東尼·伯吉斯·威爾森是哪个大洲的国民？",
+        "o_answer": "欧洲",
+        "o_answer_aliases": [
+            "欧罗巴"
+        ]
+    },
+    {
+        "question": "爱 未来式的表演者出生在哪里？",
+        "o_answer": "孟菲斯",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "《爱 未来式》的演员是谁的配偶？",
+        "o_answer": "杰西卡·贝尔",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "巴勃罗·聂鲁达曾就读于哪个国家的大学？",
+        "o_answer": "智利",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "默利图斯信奉的组织总部位置在哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "ESPN的总部位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "ESPN的产地属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "卡尔·菲利普 (普法尔茨)信奉的组织总部位置位于哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "卡尔·菲利普 (普法尔茨)的信仰所在地是哪里？",
+        "o_answer": "耶路撒冷",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "乌尔班七世信奉的宗教的成立地点是哪里？",
+        "o_answer": "耶路撒冷",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "加里斯都三世信奉的宗教总部位置在哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "保罗·莱恩信奉的教派由谁创办？",
+        "o_answer": "耶稣",
+        "o_answer_aliases": [
+            "耶稣基督",
+            "拿撒勒人耶稣"
+        ]
+    },
+    {
+        "question": "保罗·莱恩信奉的宗教的成立地点位于哪里？",
+        "o_answer": "耶路撒冷",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "保罗·莱恩信奉的教派的总部位置在哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "阿尔弗雷多·贾尔就读于哪个国家的大学？",
+        "o_answer": "智利",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "阿尔弗雷多·贾尔就读的大学由谁创办？",
+        "o_answer": "安德烈斯·贝略",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "了不起的盖茨比的作者的孩子是谁？",
+        "o_answer": "弗朗西絲·斯科特·菲茨杰拉德",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "教宗策肋定一世信奉的宗教总部位置在哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "教宗策肋定一世信奉的宗教在哪里成立的？",
+        "o_answer": "耶路撒冷",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "阿方索十三世信奉的宗教由谁创办？",
+        "o_answer": "耶稣",
+        "o_answer_aliases": [
+            "耶稣基督",
+            "拿撒勒人耶稣"
+        ]
+    },
+    {
+        "question": "阿方索十三世信奉的宗教总部位置在哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "埃斯皮诺从事的体育运动是由哪个产地发源的？",
+        "o_answer": "大不列颠及爱尔兰联合王国",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "匈牙利王国的信仰源自哪里？",
+        "o_answer": "耶路撒冷",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "匈牙利王国的信奉总部位于哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "克雷芒三世信奉的宗教由谁创办？",
+        "o_answer": "耶稣",
+        "o_answer_aliases": [
+            "耶稣基督",
+            "拿撒勒人耶稣"
+        ]
+    },
+    {
+        "question": "克雷芒三世信奉的宗教的成立地点是哪里？",
+        "o_answer": "耶路撒冷",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "本笃九世信奉的宗教由谁创办？",
+        "o_answer": "耶稣",
+        "o_answer_aliases": [
+            "耶稣基督",
+            "拿撒勒人耶稣"
+        ]
+    },
+    {
+        "question": "本笃九世信奉的宗教的成立地点在哪里？",
+        "o_answer": "耶路撒冷",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "本笃九世信奉的教会总部位于哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "理查德·布兰森的国籍的行政中心是哪里？",
+        "o_answer": "伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "弗赖辛的奥托信奉的宗教是在哪里成立的？",
+        "o_answer": "耶路撒冷",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "弗赖辛的奥托信奉的宗教总部位置在哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "希夫拉杰·辛格·乔汗的国籍属于哪个大洲？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "美国机车工厂位于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "美国机车工厂所在地是哪个城市？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "美国机车工厂位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "洛伊希滕贝格的阿美莉信奉的宗教是在哪里成立的？",
+        "o_answer": "耶路撒冷",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "克里斯多夫·杜德信奉的宗教的成立地点是哪里？",
+        "o_answer": "耶路撒冷",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "波萨诺瓦是哪个大洲的产地？",
+        "o_answer": "南美洲",
+        "o_answer_aliases": [
+            "南美"
+        ]
+    },
+    {
+        "question": "弗朗西斯·斯科特·菲茨杰拉德信奉的宗教的成立地点位于哪里？",
+        "o_answer": "耶路撒冷",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "弗朗西斯·斯科特·菲茨杰拉德信奉的宗教由谁创办的？",
+        "o_answer": "耶稣",
+        "o_answer_aliases": [
+            "耶稣基督",
+            "拿撒勒人耶稣"
+        ]
+    },
+    {
+        "question": "弗朗西斯·斯科特·菲茨杰拉德信奉的宗教总部位于哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "利奥十一世信奉的宗教是由谁创办的？",
+        "o_answer": "耶稣",
+        "o_answer_aliases": [
+            "耶稣基督",
+            "拿撒勒人耶稣"
+        ]
+    },
+    {
+        "question": "方济各·斯佩尔曼信奉的教会由谁创办？",
+        "o_answer": "耶稣",
+        "o_answer_aliases": [
+            "耶稣基督",
+            "拿撒勒人耶稣"
+        ]
+    },
+    {
+        "question": "马西·卡普图尔信奉的宗教由谁创办的？",
+        "o_answer": "耶稣",
+        "o_answer_aliases": [
+            "耶稣基督",
+            "拿撒勒人耶稣"
+        ]
+    },
+    {
+        "question": "马西·卡普图尔信奉的教会的总部位置是哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "阿奇里什·亚达夫是哪个大洲的国籍？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "特朗普大学的创办者的配偶是谁？",
+        "o_answer": "梅拉尼娅·特朗普",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "杰奎琳·肯尼迪信仰的宗教由谁创办？",
+        "o_answer": "耶稣",
+        "o_answer_aliases": [
+            "耶稣基督",
+            "拿撒勒人耶稣"
+        ]
+    },
+    {
+        "question": "杰奎琳·肯尼迪信奉的教会总部位于哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "意大利力量党 (2013年)的创办者出生地是哪里？",
+        "o_answer": "米兰",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "汉斯·乌尔斯·冯·巴尔塔萨信仰的教会由谁创办的？",
+        "o_answer": "耶稣",
+        "o_answer_aliases": [
+            "耶稣基督",
+            "拿撒勒人耶稣"
+        ]
+    },
+    {
+        "question": "克雷芒八世信奉的教会的总部位置在哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "卢卡斯·波多尔斯基信奉的宗教总部位置在哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "帕尔马公国的信仰总部位置是哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "艾伦·佩连从事的体育运动源自哪个地方？",
+        "o_answer": "大不列颠及爱尔兰联合王国",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "奥地利的玛丽亚纳信奉的宗教的成立地点是哪里？",
+        "o_answer": "耶路撒冷",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "奥地利的玛丽亚纳信奉的教会总部位置在哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "谢菲尔德联足球俱乐部的主教练是从事什么职业的？",
+        "o_answer": "足球主教练",
+        "o_answer_aliases": [
+            "足球教练"
+        ]
+    },
+    {
+        "question": "记忆延伸的作者去世于哪里？",
+        "o_answer": "贝尔蒙特镇",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "永平道元的国籍位于哪个大洲？",
+        "o_answer": "亚洲",
+        "o_answer_aliases": [
+            "亚细亚"
+        ]
+    },
+    {
+        "question": "吉姆·亨森是哪个大洲的国民？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "尤金·奥尼尔的国籍属于哪个大洲？",
+        "o_answer": "北美洲",
+        "o_answer_aliases": [
+            "北美"
+        ]
+    },
+    {
+        "question": "尤金·奥尼尔的国籍的行政中心是哪里？",
+        "o_answer": "华盛顿哥伦比亚特区",
+        "o_answer_aliases": [
+            "华盛顿特区",
+            "哥伦比亚特区",
+            "华盛顿市",
+            "华盛顿",
+            "华府"
+        ]
+    },
+    {
+        "question": "基督徒兄弟学校信奉的教派总部位置在哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "尤斯图斯·利普修斯信奉的教会总部位于哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "弗勒里信奉的宗教总部位置在哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "萨尔瓦·基尔·马亚尔迪特信奉的宗教是在哪里成立的？",
+        "o_answer": "耶路撒冷",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "约翰·波德斯塔信仰的教派是在哪里成立的？",
+        "o_answer": "耶路撒冷",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "诺森十一世信奉的宗教总部位于哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "伯顿阿尔比恩足球俱乐部的主教练出生地是哪里？",
+        "o_answer": "桑德兰",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "伯顿阿尔比恩足球俱乐部的主教练担任哪个队内位置？",
+        "o_answer": "中场",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "尼卡诺尔·帕拉的雇主位于哪个国家？",
+        "o_answer": "智利",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "通用汽车的成立地点所属国家是哪个？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "约翰十九世信奉的宗教总部位置在哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "披头士乐队的产地所在的行政中心是哪里？",
+        "o_answer": "伦敦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "克雷芒九世信奉的组织的总部位置在哪里？",
+        "o_answer": "梵蒂冈",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "劳尔·鲁伊斯就读于哪个国家的大学？",
+        "o_answer": "智利",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "Xbox One的开发者来自哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "Windows Aero的开发者曾由谁创办？",
+        "o_answer": "比尔·盖茨",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "Windows Aero的开发者位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "iPod Touch的开发者来自哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "Ju 88轰炸机的开发者来自哪个国家？",
+        "o_answer": "德国",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "DirectX的开发者是哪个国家的公司？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "麦金塔操作系统十小牛的开发者是哪个国家的公司？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "iPhone 4S的开发者位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "iPad mini的开发者创办了哪两个人？",
+        "o_answer": "史蒂夫·乔布斯",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "Internet Explorer 8的开发者来自哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "麦金塔操作系统十优胜美地的开发者位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "Internet Explorer 7的开发者属于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "巴基斯坦的政府首脑是什么职业？",
+        "o_answer": "政治人物",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "安德魯·博古特曾经就读的大学位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "麦金塔操作系统十内华达山脉的开发者是哪个国家的公司？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "有线电视新闻网的创办者是哪里出生的？",
+        "o_answer": "辛辛那提",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "汉娜·蒙塔娜 (原聲帶)的表演者来自哪个地方？",
+        "o_answer": "纳什维尔",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "iPhone 3G的开发者的所有者是谁？",
+        "o_answer": "伯克希尔·哈撒韦",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "文件资源管理器的开发者来自哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "文件资源管理器的开发者是由谁创办的？",
+        "o_answer": "比尔·盖茨",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "星际迷航的创办者有哪些孩子？",
+        "o_answer": "罗德·罗登伯里",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "星际迷航的创办者是什么职业？",
+        "o_answer": "编剧",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "iPhone 3GS的生产商位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "弗洛伦蒂诺·佩雷斯从事的体育运动的起源地是哪里？",
+        "o_answer": "大不列颠及爱尔兰联合王国",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "MS-DOS的开发者所属国家是哪个？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "iPhone 6的生产商总部位于哪里？",
+        "o_answer": "丘珀蒂诺",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "Windows 3.0的开发者位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "Apple Lisa的开发者属于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "iPod nano的开发者位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "安德森·库珀曾在哪个国家的有线电视新闻网工作？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "iPod的制造商总部位于哪里？",
+        "o_answer": "丘珀蒂诺",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "iPod的生产商位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "Windows Phone 7的生产商总部位于哪里？",
+        "o_answer": "雷德蒙德",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "IPhoto的开发者总部位于哪里？",
+        "o_answer": "丘珀蒂诺",
+        "o_answer_aliases": []
+    },
+    {
+        "question": "IPhoto的开发者位于哪个国家？",
+        "o_answer": "美国",
+        "o_answer_aliases": [
+            "美利坚合众国",
+            "花旗国",
+            "阿美理卡"
+        ]
+    },
+    {
+        "question": "IPhoto的开发者所在地是哪里？",
+        "o_answer": "洛斯阿尔托斯",
+        "o_answer_aliases": []
+    }
+]
