@@ -10,6 +10,8 @@ Experimental results from the study indicate that while existing knowledge editi
 
 The findings also show that models have a higher generalization capability within the same language family compared to languages from different families, suggesting a linguistic bias in current knowledge editing approaches.
 
+<img src="./figs/construction.pdf" width="800">
+
 ## Datasets
 
 ### Overview 
